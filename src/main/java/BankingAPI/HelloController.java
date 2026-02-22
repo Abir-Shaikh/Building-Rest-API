@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping
     public String sayHello(){
-        return "Welcome to Hello Banking API";
+        return "Welcome to Hello Banking API!";
     }
 
     @PostMapping
