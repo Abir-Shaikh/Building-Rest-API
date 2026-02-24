@@ -1,0 +1,60 @@
+{
+  "info": {
+    "_postman_id": "05ee0f80-0939-446e-ae15-ab99e3fa01da",
+    "name": "chichiveh ",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52507217",
+    "_collection_link": "https://go.postman.co/collection/52507217-05ee0f80-0939-446e-ae15-ab99e3fa01da?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "http://localhost:4200/chichiveh",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "Spring Boot"
+        },
+        "url": {
+          "raw": "http://localhost:4200/chichiveh",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "4200",
+          "path": [
+            "chichiveh"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "http://localhost:4200/chichiveh",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        },
+        "url": {
+          "raw": "http://localhost:4200/chichiveh",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "4200",
+          "path": [
+            "chichiveh"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
